@@ -3,7 +3,7 @@ This project presents a simple regularised multilayer perceptron trained over th
 
 In short, the classifier being presented has the capability of reliably detecting breast cancer given simple blood samples. While the multilayer perceptron method is obviously not novel, its application over the chosen dataset is (at the time of writing).
 
-This work took place in fulfilment for the Introduction to Neural Networks module, taught by Dr. Simon O'Keefe. Said module was a component of my final year studying the Computer Science bachelor's programme at the University of York in the UK. It was awarded a high first class honours score. The full report detailing the findings can be seen under [_report.pdf_](report.pdf).
+This work took place in fulfilment for the Introduction to Neural Networks module in 2019, taught by Dr. Simon O'Keefe. Said module was a component of my final year studying the Computer Science bachelor's programme at the University of York in the UK. I was awarded a high first class honours score for my work. The full report detailing the findings can be seen under [_report.pdf_](report.pdf).
 
 Dependencies
 ---
